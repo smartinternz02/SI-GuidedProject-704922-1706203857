@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>ef541192-0789-4396-8395-6a711a64bb3b</dataFileGUID>
-   <dataSourceUrl>C:\Users\palle\Desktop\SearchItem.xlsx</dataSourceUrl>
+   <dataSourceUrl>DDT_TestData/SearchItem.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>
