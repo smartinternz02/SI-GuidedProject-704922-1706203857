@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Amazon/TC_Validation Amazon Category_001","testCaseId":"Test Cases/Amazon/TC_Validation Amazon Category_001","iterationVariableName":"","bindedValues":{"item":"\u0027Da vinci code\u0027","category":"\u0027Books\u0027"}}
+{"testCaseName":"Test Cases/Amazon/TC_Validation Amazon Category_001","testCaseId":"Test Cases/Amazon/TC_Validation Amazon Category_001","iterationVariableName":"","bindedValues":{"item":"\u0027walkers\u0027","category":"\u0027Baby\u0027"}}
+{"testCaseName":"Test Cases/Amazon/TC_Validation Amazon Category_001","testCaseId":"Test Cases/Amazon/TC_Validation Amazon Category_001","iterationVariableName":"","bindedValues":{"item":"\u0027hp\u0027","category":"\u0027Computers\u0027"}}
